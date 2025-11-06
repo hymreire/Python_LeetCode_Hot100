@@ -6,7 +6,136 @@
 
 ## 刷题计划表
 
-- [x] T1 哈希：都是用字典当作哈希，三种初始化方法都得掌握
+- [x] T1 哈希（3题）：都是用字典当作哈希，三种初始化方法都得掌握
     - [x] 1. Two Sum
     - [x] 49. Group Anagrams
     - [x] 128. Longest Consecutive Sequence：早停优化比较有意思
+
+- [ ] T2 双指针（4题）
+    - [ ] 283. Move Zeroes
+    - [ ] 11. Container With Most Water
+    - [ ] 15. 3Sum
+    - [ ] 42. Trapping Rain Water
+
+- [ ] T3 滑动窗口（2题）
+    - [ ] 3. Longest Substring Without Repeating Characters
+    - [ ] 438. Find All Anagrams in a String
+
+- [ ] T4 子串（3题）
+    - [ ] 560. Subarray Sum Equals K
+    - [ ] 239. Sliding Window Maximum
+    - [ ] 76. Minimum Window Substring
+
+- [ ] T5 普通数组（5题）
+    - [ ] 53. Maximum Subarray
+    - [ ] 56. Merge Intervals
+    - [ ] 189. Rotate Array
+    - [ ] 238. Product of Array Except Self
+    - [ ] 41. First Missing Positive
+
+- [ ] T6 矩阵（4题）
+    - [ ] 73. Set Matrix Zeroes
+    - [ ] 54. Spiral Matrix
+    - [ ] 48. Rotate Image
+    - [ ] 240. Search a 2D Matrix II
+
+- [ ] T7 链表（14题）
+    - [ ] 160. Intersection of Two Linked Lists
+    - [ ] 206. Reverse Linked List
+    - [ ] 234. Palindrome Linked List
+    - [ ] 141. Linked List Cycle
+    - [ ] 142. Linked List Cycle II
+    - [ ] 21. Merge Two Sorted Lists
+    - [ ] 2. Add Two Numbers
+    - [ ] 19. Remove Nth Node From End of List
+    - [ ] 24. Swap Nodes in Pairs
+    - [ ] 25. Reverse Nodes in k-Group
+    - [ ] 138. Copy List with Random Pointer
+    - [ ] 148. Sort List
+    - [ ] 23. Merge k Sorted Lists
+    - [ ] 146. LRU Cache
+
+- [ ] T8 二叉树（15题）
+    - [ ] 94. Binary Tree Inorder Traversal
+    - [ ] 104. Maximum Depth of Binary Tree
+    - [ ] 226. Invert Binary Tree
+    - [ ] 101. Symmetric Tree
+    - [ ] 543. Diameter of Binary Tree
+    - [ ] 102. Binary Tree Level Order Traversal
+    - [ ] 108. Convert Sorted Array to Binary Search Tree
+    - [ ] 98. Validate Binary Search Tree
+    - [ ] 230. Kth Smallest Element in a BST
+    - [ ] 199. Binary Tree Right Side View
+    - [ ] 114. Flatten Binary Tree to Linked List
+    - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
+    - [ ] 437. Path Sum III
+    - [ ] 236. Lowest Common Ancestor of a Binary Tree
+    - [ ] 124. Binary Tree Maximum Path Sum
+
+- [ ] T9 图论（4题）
+    - [ ] 200. Number of Islands
+    - [ ] 994. Rotting Oranges
+    - [ ] 207. Course Schedule
+    - [ ] 208. Implement Trie (Prefix Tree)
+
+- [ ] T10 回溯（8题）
+    - [ ] 46. Permutations
+    - [ ] 78. Subsets
+    - [ ] 17. Letter Combinations of a Phone Number
+    - [ ] 39. Combination Sum
+    - [ ] 22. Generate Parentheses
+    - [ ] 79. Word Search
+    - [ ] 131. Palindrome Partitioning
+    - [ ] 51. N-Queens
+
+- [ ] T11 二分查找（6题）
+    - [ ] 35. Search Insert Position
+    - [ ] 74. Search a 2D Matrix
+    - [ ] 34. Find First and Last Position of Element in Sorted Array
+    - [ ] 33. Search in Rotated Sorted Array
+    - [ ] 153. Find Minimum in Rotated Sorted Array
+    - [ ] 4. Median of Two Sorted Arrays
+
+- [ ] T12 栈（5题）
+    - [ ] 20. Valid Parentheses
+    - [ ] 155. Min Stack
+    - [ ] 394. Decode String
+    - [ ] 739. Daily Temperatures
+    - [ ] 84. Largest Rectangle in Histogram
+
+- [ ] T13 堆（3题）
+    - [ ] 215. Kth Largest Element in an Array
+    - [ ] 347. Top K Frequent Elements
+    - [ ] 295. Find Median from Data Stream
+
+- [ ] T14 贪心算法（4题）
+    - [ ] 121. Best Time to Buy and Sell Stock
+    - [ ] 55. Jump Game
+    - [ ] 45. Jump Game II
+    - [ ] 763. Partition Labels
+
+- [ ] T15 动态规划（10题）
+    - [ ] 70. Climbing Stairs
+    - [ ] 118. Pascal's Triangle
+    - [ ] 198. House Robber
+    - [ ] 279. Perfect Squares
+    - [ ] 322. Coin Change
+    - [ ] 139. Word Break
+    - [ ] 300. Longest Increasing Subsequence
+    - [ ] 152. Maximum Product Subarray
+    - [ ] 416. Partition Equal Subset Sum
+    - [ ] 32. Longest Valid Parentheses
+
+- [ ] T16 多维动态规划（5题）
+    - [ ] 62. Unique Paths
+    - [ ] 64. Minimum Path Sum
+    - [ ] 5. Longest Palindromic Substring
+    - [ ] 1143. Longest Common Subsequence
+    - [ ] 72. Edit Distance
+
+- [ ] T17 技巧（5题）
+    - [ ] 136. Single Number
+    - [ ] 169. Majority Element
+    - [ ] 75. Sort Colors
+    - [ ] 31. Next Permutation
+    - [ ] 287. Find the Duplicate Number
