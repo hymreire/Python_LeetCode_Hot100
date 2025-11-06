@@ -12,9 +12,9 @@
     - [x] 128. Longest Consecutive Sequence：早停优化比较有意思
 
 - [ ] T2 双指针（4题）
-    - [ ] 283. Move Zeroes
-    - [ ] 11. Container With Most Water
-    - [ ] 15. 3Sum
+    - [x] 283. Move Zeroes
+    - [x] 11. Container With Most Water
+    - [x] 15. 3Sum：这道可以背下来，模板题
     - [ ] 42. Trapping Rain Water
 
 - [ ] T3 滑动窗口（2题）
