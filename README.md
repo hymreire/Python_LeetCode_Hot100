@@ -2,6 +2,8 @@
 
 记录一下LeetCode的Hot100的刷题过程，语言是Python
 
+链接：https://leetcode.cn/studyplan/top-100-liked/
+
 ## 刷题计划表
 
 - [x] T1 哈希：都是用字典当作哈希，三种初始化方法都得掌握
