@@ -1,0 +1,15 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible",
+  "autoConvertHtml": false
+}

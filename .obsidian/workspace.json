@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "13853bf75302a4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dde1e5bda4a41ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd1a778462c9f64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89b81bf8753b4739",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9cb70aa4aa7117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84be256731936ce8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "48a50c05c50fa4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ed9a49af9e20125c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "914cb5397487e97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf7be96e2c122af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5aa63fe5544f10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f5bc2572c9451441",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "be73d034305f2081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "69b99a582a94271a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cd1a778462c9f64e",
+  "lastOpenFiles": [
+    "L26_单调栈_L27_单调队列.md",
+    "L24_25_树形DP_2_3_独立集_支配集.md",
+    "L968_Binary_Tree_Cameras.py",
+    "L.py",
+    "L337_House_Robber_III.py",
+    "L17-25_动态规划/L2246_Longest_Path_With_Different_Adjacent_Characters.py",
+    "L17-25_动态规划/L543_Diameter_of_Binary_Tree.py",
+    "L17-25_动态规划/L124_Binary_Tree_Maximum_Path_Sum.py",
+    "L17-25_动态规划/L23_树形DP1_树的直径.md",
+    "L23_树形DP1_树的直径.md",
+    "L22_区间DP.md",
+    "L1039_Minimum_Score_Triangulation_of_Polygon.py",
+    "L21_状态机DP.md",
+    "L188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
+    "L309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py",
+    "L122_Best_Time_to_Buy_and_Sell_Stock_II.py",
+    "L_19_20_线性DP.md",
+    "L17-25_动态规划/L18_背包问题.md",
+    "L17-25_动态规划/L17_动态规划入门.md",
+    "L18_背包问题.md",
+    "L17_动态规划入门.md",
+    "回溯的题目参考回答.md",
+    "Lec14_15_16_回溯.md",
+    "README.md",
+    "SSH.md",
+    "ViewCrafter环境安装.md",
+    "ffmpeg.md",
+    "GPU.md",
+    "pip install.md",
+    "conda.md",
+    "Debug.md",
+    "SpatialCrafter.md",
+    "0_My_Note/Lec7_函数的高级用法/Lec7.函数高级用法.md",
+    "0_My_Note/Lec8_ARM_程序加速/Lec8_ARM_程序加速.md",
+    "Note/Lec7/Lec7.函数高级用法.md",
+    "week07/README.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
