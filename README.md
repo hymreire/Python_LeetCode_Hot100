@@ -17,9 +17,9 @@
     - [x] 15. 3Sum：这道可以背下来，模板题
     - [x] 42. Trapping Rain Water
 
-- [ ] T3 滑动窗口（2题）
-    - [ ] 3. Longest Substring Without Repeating Characters
-    - [ ] 438. Find All Anagrams in a String
+- [x] T3 滑动窗口（2题）
+    - [x] 3. Longest Substring Without Repeating Characters
+    - [x] 438. Find All Anagrams in a String
 
 - [ ] T4 子串（3题）
     - [ ] 560. Subarray Sum Equals K
