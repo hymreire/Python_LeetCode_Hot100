@@ -21,10 +21,10 @@
     - [x] 3. Longest Substring Without Repeating Characters
     - [x] 438. Find All Anagrams in a String
 
-- [ ] T4 子串（3题）
-    - [ ] 560. Subarray Sum Equals K
-    - [ ] 239. Sliding Window Maximum
-    - [ ] 76. Minimum Window Substring
+- [x] T4 子串（3题）
+    - [x] 560. Subarray Sum Equals K
+    - [x] 239. Sliding Window Maximum
+    - [x] 76. Minimum Window Substring
 
 - [ ] T5 普通数组（5题）
     - [ ] 53. Maximum Subarray
