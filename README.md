@@ -33,11 +33,11 @@
     - [x] 238. Product of Array Except Self
     - [x] 41. First Missing Positive：换座位法，很巧妙
 
-- [ ] T6 矩阵（4题）
-    - [ ] 73. Set Matrix Zeroes
-    - [ ] 54. Spiral Matrix
-    - [ ] 48. Rotate Image
-    - [ ] 240. Search a 2D Matrix II
+- [x] T6 矩阵（4题）
+    - [x] 73. Set Matrix Zeroes
+    - [x] 54. Spiral Matrix
+    - [x] 48. Rotate Image
+    - [x] 240. Search a 2D Matrix II
 
 - [ ] T7 链表（14题）
     - [ ] 160. Intersection of Two Linked Lists
