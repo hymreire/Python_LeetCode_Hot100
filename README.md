@@ -26,12 +26,12 @@
     - [x] 239. Sliding Window Maximum
     - [x] 76. Minimum Window Substring
 
-- [ ] T5 普通数组（5题）
-    - [ ] 53. Maximum Subarray
-    - [ ] 56. Merge Intervals
-    - [ ] 189. Rotate Array
-    - [ ] 238. Product of Array Except Self
-    - [ ] 41. First Missing Positive
+- [x] T5 普通数组（5题）：主要是前后缀法和换座位法
+    - [x] 53. Maximum Subarray
+    - [x] 56. Merge Intervals
+    - [x] 189. Rotate Array
+    - [x] 238. Product of Array Except Self
+    - [x] 41. First Missing Positive：换座位法，很巧妙
 
 - [ ] T6 矩阵（4题）
     - [ ] 73. Set Matrix Zeroes
