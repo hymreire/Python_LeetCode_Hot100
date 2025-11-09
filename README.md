@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：35题
-- **未完成**：65题
-- **完成进度**：35%
+- **已完成**：42题
+- **未完成**：58题
+- **完成进度**：42%
 
 ## 刷题计划表
 
@@ -63,13 +63,13 @@
     - [x] 146. LRU Cache：典型的双向链表设计题，自己写码量比较大，调库码量小一点
 
 - [ ] T8 二叉树（15题）
-    - [ ] 94. Binary Tree Inorder Traversal
-    - [ ] 104. Maximum Depth of Binary Tree
-    - [ ] 226. Invert Binary Tree
-    - [ ] 101. Symmetric Tree
-    - [ ] 543. Diameter of Binary Tree
-    - [ ] 102. Binary Tree Level Order Traversal
-    - [ ] 108. Convert Sorted Array to Binary Search Tree
+    - [x] 94. Binary Tree Inorder Traversal
+    - [x] 104. Maximum Depth of Binary Tree
+    - [x] 226. Invert Binary Tree
+    - [x] 101. Symmetric Tree
+    - [x] 543. Diameter of Binary Tree
+    - [x] 102. Binary Tree Level Order Traversal：BFS，数组，队列
+    - [x] 108. Convert Sorted Array to Binary Search Tree
     - [ ] 98. Validate Binary Search Tree
     - [ ] 230. Kth Smallest Element in a BST
     - [ ] 199. Binary Tree Right Side View
