@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：32题
-- **未完成**：68题
-- **完成进度**：32%
+- **已完成**：35题
+- **未完成**：65题
+- **完成进度**：35%
 
 ## 刷题计划表
 
@@ -46,7 +46,7 @@
     - [x] 48. Rotate Image
     - [x] 240. Search a 2D Matrix II
 
-- [ ] T7 链表（14题）
+- [x] T7 链表（14题）
     - [x] 160. Intersection of Two Linked Lists
     - [x] 206. Reverse Linked List
     - [x] 234. Palindrome Linked List
@@ -58,9 +58,9 @@
     - [x] 24. Swap Nodes in Pairs
     - [x] 25. Reverse Nodes in k-Group
     - [x] 138. Copy List with Random Pointer
-    - [ ] 148. Sort List
-    - [ ] 23. Merge k Sorted Lists
-    - [ ] 146. LRU Cache
+    - [x] 148. Sort List：码量极大，非常难背；学一道题，顶六道题
+    - [x] 23. Merge k Sorted Lists：方法类似，但比上一道题简单
+    - [x] 146. LRU Cache：典型的双向链表设计题，自己写码量比较大，调库码量小一点
 
 - [ ] T8 二叉树（15题）
     - [ ] 94. Binary Tree Inorder Traversal
