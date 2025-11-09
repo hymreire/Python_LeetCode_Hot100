@@ -4,6 +4,13 @@
 
 链接：https://leetcode.cn/studyplan/top-100-liked/
 
+## 刷题统计
+
+- **总题数**：100题
+- **已完成**：32题
+- **未完成**：68题
+- **完成进度**：32%
+
 ## 刷题计划表
 
 - [x] T1 哈希（3题）：都是用字典当作哈希，三种初始化方法都得掌握
@@ -40,17 +47,17 @@
     - [x] 240. Search a 2D Matrix II
 
 - [ ] T7 链表（14题）
-    - [ ] 160. Intersection of Two Linked Lists
-    - [ ] 206. Reverse Linked List
-    - [ ] 234. Palindrome Linked List
-    - [ ] 141. Linked List Cycle
-    - [ ] 142. Linked List Cycle II
-    - [ ] 21. Merge Two Sorted Lists
-    - [ ] 2. Add Two Numbers
-    - [ ] 19. Remove Nth Node From End of List
-    - [ ] 24. Swap Nodes in Pairs
-    - [ ] 25. Reverse Nodes in k-Group
-    - [ ] 138. Copy List with Random Pointer
+    - [x] 160. Intersection of Two Linked Lists
+    - [x] 206. Reverse Linked List
+    - [x] 234. Palindrome Linked List
+    - [x] 141. Linked List Cycle
+    - [x] 142. Linked List Cycle II
+    - [x] 21. Merge Two Sorted Lists
+    - [x] 2. Add Two Numbers
+    - [x] 19. Remove Nth Node From End of List
+    - [x] 24. Swap Nodes in Pairs
+    - [x] 25. Reverse Nodes in k-Group
+    - [x] 138. Copy List with Random Pointer
     - [ ] 148. Sort List
     - [ ] 23. Merge k Sorted Lists
     - [ ] 146. LRU Cache
