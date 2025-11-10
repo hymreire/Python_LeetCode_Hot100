@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：42题
-- **未完成**：58题
-- **完成进度**：42%
+- **已完成**：50题
+- **未完成**：50题
+- **完成进度**：50%
 
 ## 刷题计划表
 
@@ -62,7 +62,7 @@
     - [x] 23. Merge k Sorted Lists：方法类似，但比上一道题简单
     - [x] 146. LRU Cache：典型的双向链表设计题，自己写码量比较大，调库码量小一点
 
-- [ ] T8 二叉树（15题）
+- [x] T8 二叉树（15题）
     - [x] 94. Binary Tree Inorder Traversal
     - [x] 104. Maximum Depth of Binary Tree
     - [x] 226. Invert Binary Tree
@@ -70,14 +70,14 @@
     - [x] 543. Diameter of Binary Tree
     - [x] 102. Binary Tree Level Order Traversal：BFS，数组，队列
     - [x] 108. Convert Sorted Array to Binary Search Tree
-    - [ ] 98. Validate Binary Search Tree
-    - [ ] 230. Kth Smallest Element in a BST
-    - [ ] 199. Binary Tree Right Side View
-    - [ ] 114. Flatten Binary Tree to Linked List
-    - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal
-    - [ ] 437. Path Sum III
-    - [ ] 236. Lowest Common Ancestor of a Binary Tree
-    - [ ] 124. Binary Tree Maximum Path Sum
+    - [x] 98. Validate Binary Search Tree
+    - [x] 230. Kth Smallest Element in a BST
+    - [x] 199. Binary Tree Right Side View
+    - [x] 114. Flatten Binary Tree to Linked List：这题的思考确实有难度，可以再刷一次
+    - [x] 105. Construct Binary Tree from Preorder and Inorder Traversal：区间关系有点恶心，难算
+    - [x] 437. Path Sum III
+    - [x] 236. Lowest Common Ancestor of a Binary Tree
+    - [x] 124. Binary Tree Maximum Path Sum
 
 - [ ] T9 图论（4题）
     - [ ] 200. Number of Islands

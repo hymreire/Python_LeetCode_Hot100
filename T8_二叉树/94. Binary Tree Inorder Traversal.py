@@ -68,3 +68,17 @@ class Solution:
                     root = root.right         # 深入 R
         # 步骤 1: 返回结果
         return res
+
+# 按照灵神的中序遍历写法整了一下，感觉和gemini的官解转python也没啥区别：
+class Solution:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        ans=[]
+        def dfs(r):
+            if r is None:
+                return
+            dfs(r.left)
+            nonlocal ans
+            ans.append(r.val)
+            dfs(r.right)
+        dfs(root)
+        return ans
