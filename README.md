@@ -79,11 +79,11 @@
     - [x] 236. Lowest Common Ancestor of a Binary Tree
     - [x] 124. Binary Tree Maximum Path Sum
 
-- [ ] T9 图论（4题）
-    - [ ] 200. Number of Islands
-    - [ ] 994. Rotting Oranges
-    - [ ] 207. Course Schedule
-    - [ ] 208. Implement Trie (Prefix Tree)
+- [x] T9 图论（4题）
+    - [x] 200. Number of Islands
+    - [x] 994. Rotting Oranges
+    - [x] 207. Course Schedule
+    - [x] 208. Implement Trie (Prefix Tree)
 
 - [ ] T10 回溯（8题）
     - [ ] 46. Permutations
