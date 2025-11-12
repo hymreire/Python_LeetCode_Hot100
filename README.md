@@ -85,15 +85,15 @@
     - [x] 207. Course Schedule
     - [x] 208. Implement Trie (Prefix Tree)
 
-- [ ] T10 回溯（8题）
-    - [ ] 46. Permutations
-    - [ ] 78. Subsets
-    - [ ] 17. Letter Combinations of a Phone Number
-    - [ ] 39. Combination Sum
-    - [ ] 22. Generate Parentheses
-    - [ ] 79. Word Search
-    - [ ] 131. Palindrome Partitioning
-    - [ ] 51. N-Queens
+- [x] T10 回溯（8题）
+    - [x] 46. Permutations
+    - [x] 78. Subsets
+    - [x] 17. Letter Combinations of a Phone Number
+    - [x] 39. Combination Sum
+    - [x] 22. Generate Parentheses
+    - [x] 79. Word Search
+    - [x] 131. Palindrome Partitioning
+    - [x] 51. N-Queens
 
 - [ ] T11 二分查找（6题）
     - [ ] 35. Search Insert Position
