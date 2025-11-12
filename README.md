@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：62题
-- **未完成**：38题
-- **完成进度**：62%
+- **已完成**：68题
+- **未完成**：32题
+- **完成进度**：68%
 
 ## 刷题计划表
 
@@ -95,13 +95,13 @@
     - [x] 131. Palindrome Partitioning
     - [x] 51. N-Queens
 
-- [ ] T11 二分查找（6题）
-    - [ ] 35. Search Insert Position
-    - [ ] 74. Search a 2D Matrix
-    - [ ] 34. Find First and Last Position of Element in Sorted Array
-    - [ ] 33. Search in Rotated Sorted Array
-    - [ ] 153. Find Minimum in Rotated Sorted Array
-    - [ ] 4. Median of Two Sorted Arrays
+- [x] T11 二分查找（6题）
+    - [x] 35. Search Insert Position
+    - [x] 74. Search a 2D Matrix
+    - [x] 34. Find First and Last Position of Element in Sorted Array
+    - [x] 33. Search in Rotated Sorted Array：这道题难度较高，一题能顶三道题
+    - [x] 153. Find Minimum in Rotated Sorted Array
+    - [x] 4. Median of Two Sorted Arrays：难度过高，加入二刷名单
 
 - [ ] T12 栈（5题）
     - [ ] 20. Valid Parentheses
