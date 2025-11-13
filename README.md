@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：68题
-- **未完成**：32题
-- **完成进度**：68%
+- **已完成**：73题
+- **未完成**：27题
+- **完成进度**：73%
 
 ## 刷题计划表
 
@@ -95,7 +95,7 @@
     - [x] 131. Palindrome Partitioning
     - [x] 51. N-Queens
 
-- [x] T11 二分查找（6题）
+- [x] T11 二分查找（6题）：二分乃一生之敌，有空得多练灵神题单
     - [x] 35. Search Insert Position
     - [x] 74. Search a 2D Matrix
     - [x] 34. Find First and Last Position of Element in Sorted Array
@@ -103,12 +103,12 @@
     - [x] 153. Find Minimum in Rotated Sorted Array
     - [x] 4. Median of Two Sorted Arrays：难度过高，加入二刷名单
 
-- [ ] T12 栈（5题）
-    - [ ] 20. Valid Parentheses
-    - [ ] 155. Min Stack
-    - [ ] 394. Decode String
-    - [ ] 739. Daily Temperatures
-    - [ ] 84. Largest Rectangle in Histogram
+- [x] T12 栈（5题）
+    - [x] 20. Valid Parentheses
+    - [x] 155. Min Stack
+    - [x] 394. Decode String
+    - [x] 739. Daily Temperatures
+    - [x] 84. Largest Rectangle in Histogram：难度很高，一个下午卡在这里了
 
 - [ ] T13 堆（3题）
     - [ ] 215. Kth Largest Element in an Array
