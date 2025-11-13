@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：76题
-- **未完成**：24题
-- **完成进度**：76%
+- **已完成**：80题
+- **未完成**：20题
+- **完成进度**：80%
 
 ## 刷题计划表
 
@@ -115,11 +115,11 @@
     - [x] 347. Top K Frequent Elements
     - [x] 295. Find Median from Data Stream
 
-- [ ] T14 贪心算法（4题）
-    - [ ] 121. Best Time to Buy and Sell Stock
-    - [ ] 55. Jump Game
-    - [ ] 45. Jump Game II
-    - [ ] 763. Partition Labels
+- [x] T14 贪心算法（4题）
+    - [x] 121. Best Time to Buy and Sell Stock
+    - [x] 55. Jump Game
+    - [x] 45. Jump Game II
+    - [x] 763. Partition Labels
 
 - [ ] T15 动态规划（10题）
     - [ ] 70. Climbing Stairs
