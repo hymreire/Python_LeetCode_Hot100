@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：73题
-- **未完成**：27题
-- **完成进度**：73%
+- **已完成**：76题
+- **未完成**：24题
+- **完成进度**：76%
 
 ## 刷题计划表
 
@@ -110,10 +110,10 @@
     - [x] 739. Daily Temperatures
     - [x] 84. Largest Rectangle in Histogram：难度很高，一个下午卡在这里了
 
-- [ ] T13 堆（3题）
-    - [ ] 215. Kth Largest Element in an Array
-    - [ ] 347. Top K Frequent Elements
-    - [ ] 295. Find Median from Data Stream
+- [x] T13 堆（3题）
+    - [x] 215. Kth Largest Element in an Array
+    - [x] 347. Top K Frequent Elements
+    - [x] 295. Find Median from Data Stream
 
 - [ ] T14 贪心算法（4题）
     - [ ] 121. Best Time to Buy and Sell Stock
