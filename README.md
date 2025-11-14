@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：90题
-- **未完成**：10题
-- **完成进度**：90%
+- **已完成**：95题
+- **未完成**：5题
+- **完成进度**：95%
 
 ## 刷题计划表
 
@@ -133,12 +133,12 @@
     - [x] 416. Partition Equal Subset Sum
     - [x] 32. Longest Valid Parentheses：暂时不背，后面二刷时再认真研究
 
-- [ ] T16 多维动态规划（5题）
-    - [ ] 62. Unique Paths
-    - [ ] 64. Minimum Path Sum
-    - [ ] 5. Longest Palindromic Substring
-    - [ ] 1143. Longest Common Subsequence
-    - [ ] 72. Edit Distance
+- [x] T16 多维动态规划（5题）：跳过了背答案环节，后面有时间补回来
+    - [x] 62. Unique Paths：二维动态规划入门
+    - [x] 64. Minimum Path Sum：和上面那题差不多，多一步计算
+    - [x] 5. Longest Palindromic Substring：前面两种方法看的懂，Manacher算法跳过，以后看
+    - [x] 1143. Longest Common Subsequence：和64差不多
+    - [x] 72. Edit Distance：比1143复杂一些，重点是理解三种操作所对应的指针变化
 
 - [ ] T17 技巧（5题）
     - [ ] 136. Single Number
