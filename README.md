@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：80题
-- **未完成**：20题
-- **完成进度**：80%
+- **已完成**：90题
+- **未完成**：10题
+- **完成进度**：90%
 
 ## 刷题计划表
 
@@ -121,17 +121,17 @@
     - [x] 45. Jump Game II
     - [x] 763. Partition Labels
 
-- [ ] T15 动态规划（10题）
-    - [ ] 70. Climbing Stairs
-    - [ ] 118. Pascal's Triangle
-    - [ ] 198. House Robber
-    - [ ] 279. Perfect Squares
-    - [ ] 322. Coin Change
-    - [ ] 139. Word Break
-    - [ ] 300. Longest Increasing Subsequence
-    - [ ] 152. Maximum Product Subarray
-    - [ ] 416. Partition Equal Subset Sum
-    - [ ] 32. Longest Valid Parentheses
+- [x] T15 动态规划（10题）
+    - [x] 70. Climbing Stairs：动态规划入门+快速幂入门
+    - [x] 118. Pascal's Triangle
+    - [x] 198. House Robber
+    - [x] 279. Perfect Squares
+    - [x] 322. Coin Change
+    - [x] 139. Word Break
+    - [x] 300. Longest Increasing Subsequence
+    - [x] 152. Maximum Product Subarray
+    - [x] 416. Partition Equal Subset Sum
+    - [x] 32. Longest Valid Parentheses：暂时不背，后面二刷时再认真研究
 
 - [ ] T16 多维动态规划（5题）
     - [ ] 62. Unique Paths
