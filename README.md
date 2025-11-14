@@ -7,9 +7,9 @@
 ## 刷题统计
 
 - **总题数**：100题
-- **已完成**：95题
-- **未完成**：5题
-- **完成进度**：95%
+- **已完成**：100题
+- **未完成**：0题
+- **完成进度**：100%
 
 ## 刷题计划表
 
@@ -140,9 +140,9 @@
     - [x] 1143. Longest Common Subsequence：和64差不多
     - [x] 72. Edit Distance：比1143复杂一些，重点是理解三种操作所对应的指针变化
 
-- [ ] T17 技巧（5题）
-    - [ ] 136. Single Number
-    - [ ] 169. Majority Element
-    - [ ] 75. Sort Colors
-    - [ ] 31. Next Permutation
-    - [ ] 287. Find the Duplicate Number
+- [x] T17 技巧（5题）
+    - [x] 136. Single Number
+    - [x] 169. Majority Element
+    - [x] 75. Sort Colors：到大晚上这题脑袋有点绕不过来了
+    - [x] 31. Next Permutation
+    - [x] 287. Find the Duplicate Number
